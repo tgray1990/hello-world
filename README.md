@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans,
+
+I'm testing Git Hub for the first time.
